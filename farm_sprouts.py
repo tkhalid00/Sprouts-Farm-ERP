@@ -1,6 +1,6 @@
 # farm_sprouts.py
 
-!pip install streamlit
+pip install streamlit
 
 # Import necessary libraries
 import pandas as pd
